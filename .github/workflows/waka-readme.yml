@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           LANG_COUNT: 5
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TOTAL: true
           SHOW_TIME: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
