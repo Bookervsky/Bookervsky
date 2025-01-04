@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2024 - To: 02 January 2025
+From: 27 December 2024 - To: 03 January 2025
 
-Total Time: 3 hrs 24 mins
+Total Time: 5 hrs 6 mins
 
-TeX      2 hrs 42 mins   ████████████████████░░░░░   79.49 %
-Python   40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-CSV      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TeX      4 hrs 24 mins   █████████████████████▓░░░   86.33 %
+Python   40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
