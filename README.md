@@ -4,14 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 42 mins
+Total Time: 1 hr 11 mins
 
-JSON                       35 mins         █████████████████████░░░░   83.51 %
-Python                     6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JSON                       35 mins         ████████████▒░░░░░░░░░░░░   49.75 %
+TeX                        28 mins         ██████████░░░░░░░░░░░░░░░   40.43 %
+Python                     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
