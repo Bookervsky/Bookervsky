@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Total Time: 10 hrs 21 mins
+Total Time: 14 hrs 9 mins
 
-Python   9 hrs 34 mins   ███████████████████████░░   92.33 %
-TeX      29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-CSV      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Python   13 hrs 29 mins  ███████████████████████▓░   95.23 %
+TeX      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+CSV      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
