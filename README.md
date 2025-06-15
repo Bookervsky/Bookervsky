@@ -4,14 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 6 hrs 18 mins
+Total Time: 10 hrs 29 mins
 
-Jupyter    5 hrs 11 mins   ████████████████████▓░░░░   82.35 %
-Python     1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Jupyter    5 hrs 52 mins   ██████████████░░░░░░░░░░░   56.05 %
+Python     4 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   40.88 %
+CSV        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
