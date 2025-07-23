@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2025 - To: 21 July 2025
+From: 15 July 2025 - To: 22 July 2025
 
-Total Time: 9 hrs 54 mins
+Total Time: 17 hrs 10 mins
 
-Python             8 hrs 41 mins   ██████████████████████░░░   87.73 %
-CSV                42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Markdown           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Text               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-textmate           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python             15 hrs 55 mins  █████████████████████▒░░░   85.03 %
+Other              1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+CSV                46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Markdown           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Text               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
