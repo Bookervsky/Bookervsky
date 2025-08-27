@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 3 hrs 1 min
+Total Time: 4 hrs 36 mins
 
-Markdown                   1 hr 23 mins    █████████▓░░░░░░░░░░░░░░░   38.45 %
-Python                     1 hr 22 mins    █████████▓░░░░░░░░░░░░░░░   38.12 %
-Other                      36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-YAML                       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Jupyter                    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Python     3 hrs 7 mins    █████████████████░░░░░░░░   67.74 %
+Markdown   1 hr 23 mins    ███████▓░░░░░░░░░░░░░░░░░   30.23 %
+YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Jupyter    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
