@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 12 hrs 4 mins
+Total Time: 11 hrs 2 mins
 
-TeX            7 hrs 19 mins   ███████████████▒░░░░░░░░░   60.71 %
-Python         3 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Markdown       1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-YAML           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TeX            7 hrs 47 mins   █████████████████▓░░░░░░░   70.53 %
+Python         3 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+BibTeX         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
