@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 8 hrs 7 mins
+Total Time: 11 hrs 9 mins
 
-TeX        4 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.56 %
-Python     3 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
-HTML       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Jade       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-textmate   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TeX        5 hrs 30 mins   ████████████▒░░░░░░░░░░░░   49.32 %
+Python     4 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.14 %
+Jupyter    52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+JSON       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+HTML       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
