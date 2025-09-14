@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 13 hrs 40 mins
+Total Time: 14 hrs 7 mins
 
-Jupyter        8 hrs 2 mins    ██████████████▓░░░░░░░░░░   58.43 %
-TeX            4 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
-Python         1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-OpenEdge ABL   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Jupyter        7 hrs 41 mins   █████████████▓░░░░░░░░░░░   54.07 %
+TeX            3 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Python         3 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+OpenEdge ABL   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
