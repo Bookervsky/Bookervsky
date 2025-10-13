@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Total Time: 30 hrs 31 mins
+Total Time: 25 hrs 56 mins
 
-Python       28 hrs 11 mins  ██████████████████████░░░   88.62 %
-Jupyter      1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other        1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-TeX          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python       24 hrs 4 mins   ██████████████████████░░░   88.40 %
+Jupyter      1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Other        1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+TeX          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
