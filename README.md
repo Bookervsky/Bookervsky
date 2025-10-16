@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 21 hrs 21 mins
+Total Time: 19 hrs 38 mins
 
-Python     19 hrs 54 mins  ██████████████████████░░░   87.86 %
-Other      1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-TeX        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Jupyter    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     18 hrs 6 mins   ██████████████████████░░░   88.27 %
+TeX        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other      53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Jupyter    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
