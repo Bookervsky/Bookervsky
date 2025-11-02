@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 11 hrs 24 mins
+Total Time: 14 hrs 45 mins
 
-TeX                        9 hrs 48 mins   █████████████████████▒░░░   85.91 %
-BibTeX                     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Nginx configuration file   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Markdown                   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-BST                        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+TeX                        12 hrs 47 mins  █████████████████████▓░░░   86.69 %
+BibTeX                     49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Nginx configuration file   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JSON                       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown                   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
