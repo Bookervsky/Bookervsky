@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 5 hrs 56 mins
+Total Time: 2 hrs 35 mins
 
-TeX              5 hrs 6 mins    █████████████████████▒░░░   85.91 %
-Python           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-JSON             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-BibTeX           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TeX              2 hrs 6 mins    ████████████████████▒░░░░   81.49 %
+Python           19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+GitIgnore file   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+CSV              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
