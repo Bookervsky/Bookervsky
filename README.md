@@ -3,13 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Total Time: 28 mins
+Total Time: 5 mins
 
-Python           19 mins         █████████████████░░░░░░░░   67.40 %
-GitIgnore file   9 mins          ████████░░░░░░░░░░░░░░░░░   32.59 %
-CSV              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
