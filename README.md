@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 35 hrs 12 mins
+Total Time: 36 hrs 38 mins
 
-Python             29 hrs 35 mins  █████████████████████░░░░   84.07 %
-Jupyter            3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Markdown           1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Text               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-GitIgnore file     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python             30 hrs 41 mins  █████████████████████░░░░   83.76 %
+Jupyter            2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Markdown           2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Text               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GitIgnore file     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
