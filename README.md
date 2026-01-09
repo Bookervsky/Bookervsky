@@ -3,12 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 5 hrs 43 mins
+Total Time: 2 hrs 1 min
 
-TeX      5 hrs 41 mins   █████████████████████████   99.38 %
-BibTeX   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TeX   2 hrs 1 min     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
