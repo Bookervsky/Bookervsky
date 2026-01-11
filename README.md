@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2026 - To: 09 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
-Total Time: 1 hr 23 mins
+Total Time: 2 hrs 29 mins
 
-TeX   1 hr 23 mins    █████████████████████████   100.00 %
+TeX      1 hr 58 mins    ███████████████████▓░░░░░   79.16 %
+Python   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
 ```
 
 <!--END_SECTION:waka-->
