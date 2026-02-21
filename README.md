@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Total Time: 4 hrs 19 mins
+Total Time: 5 hrs 24 mins
 
-Python   3 hrs 3 mins          █████████████████▓░░░░░░░   70.59 %
-TeX      1 hr 16 mins          ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-BibTeX   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   4 hrs 11 mins         ███████████████████▒░░░░░   77.45 %
+TeX      1 hr 13 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+BibTeX   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
