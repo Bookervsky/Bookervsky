@@ -3,13 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2026 - To: 27 March 2026
+From: 21 March 2026 - To: 28 March 2026
 
-Total Time: 31 mins
+Total Time: 1 hr 24 mins
 
-TeX              15 mins               ████████████░░░░░░░░░░░░░   48.12 %
-GitIgnore file   14 mins               ███████████▒░░░░░░░░░░░░░   45.14 %
-Python           2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Markdown         52 mins               ███████████████▓░░░░░░░░░   62.87 %
+TeX              15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+GitIgnore file   14 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Python           2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
