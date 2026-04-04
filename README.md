@@ -3,12 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-Total Time: 1 hr 8 mins
+Total Time: 52 mins
 
-Markdown   52 mins               ███████████████████▒░░░░░   77.87 %
-TeX        15 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+Markdown   52 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
