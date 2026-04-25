@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Total Time: 6 hrs 55 mins
+Total Time: 8 hrs 7 mins
 
-TeX              6 hrs 37 mins         ████████████████████████░   95.70 %
-Python           13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-BibTeX           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TeX              7 hrs 50 mins         ████████████████████████░   96.36 %
+Python           13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Bash             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+BibTeX           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
