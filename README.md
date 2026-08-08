@@ -3,13 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2026 - To: 06 August 2026
+From: 31 July 2026 - To: 07 August 2026
 
-Total Time: 3 hrs 19 mins
+Total Time: 9 hrs 7 mins
 
-Python   3 hrs 19 mins         ███████████████████████▒░   93.85 %
-Other    12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-TeX      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python                   8 hrs 58 mins         ███████████████████████▒░   93.70 %
+Other                    27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Answer Set Programming   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+textmate                 1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TeX                      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
