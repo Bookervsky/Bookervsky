@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Buke Lyu. I’m a Master’s student in Traffic and Transportation Planning and Management at Beijing Jiaotong University. My research interests include optimization theories—such as convex optimization, linear optimization, combinatorial optimization, and bilevel optimization. In addition, I’m also interested in computer networking.
+## My name is Buke Lyu, and I'm a PhD student in civil engineering at the University of Minnesota. My research focus on network modeling and optimization as well as traffic flow theory. I am particularly interested in developing and applying new optimization algorithms.
 <!--START_SECTION:waka-->
 
 ```txt
