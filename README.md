@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 6 hrs 56 mins
+Total Time: 11 hrs 6 mins
 
-Python     5 hrs 53 mins         █████████████████████▒░░░   84.81 %
-TeX        28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-CSV        22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Text       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python     6 hrs 46 mins         ███████████████▒░░░░░░░░░   60.90 %
+TeX        3 hrs 36 mins         ████████░░░░░░░░░░░░░░░░░   32.47 %
+CSV        29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+BibTeX     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JSON       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
