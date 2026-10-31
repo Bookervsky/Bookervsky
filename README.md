@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Total Time: 8 hrs 45 mins
+Total Time: 14 hrs 2 mins
 
-TeX              7 hrs 52 mins         ████████████████░░░░░░░░░   63.99 %
-Other            3 hrs 32 mins         ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-Markdown         23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Python           19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-BibTeX           9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+TeX              11 hrs 9 mins         ███████████████▓░░░░░░░░░   62.18 %
+Other            3 hrs 54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Python           1 hr 16 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Markdown         1 hr 4 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+BibTeX           28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
